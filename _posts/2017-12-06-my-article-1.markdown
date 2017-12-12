@@ -3,6 +3,7 @@ layout: post
 title:  "这是志敏的第一篇文章!"
 date:   2017-12-06 22:18:43 +0800
 categories: jekyll update
+comments: true
 ---
 
 <h1>This is my first article</h1>
